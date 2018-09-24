@@ -1,0 +1,23 @@
+_repo: The-Catholic-World-Vol-20-October-1874March-1875_56022
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2017-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Catholic Church -- Periodicals'
+- GITenberg
+title: The Catholic World, Vol. 20, October 1874‐March 1875
+url: http://www.gutenberg.org/ebooks/56022
